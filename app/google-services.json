@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "663652396988",
+    "project_id": "agroguiafacil",
+    "storage_bucket": "agroguiafacil.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663652396988:android:5b3c4f1c3eee3c41c145b9",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinal123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663652396988-gq4hrh0fgs2qj18c222viklb06dm66ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectofinal123",
+            "certificate_hash": "974fb230f29e3f2dd20d05e430ad64f60fae092c"
+          }
+        },
+        {
+          "client_id": "663652396988-1svh3b2bblhhd902b6slv0ln4h2tbrrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVIacuuRQCjtTOje6AHYDwkbwOGOhLa1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663652396988-1svh3b2bblhhd902b6slv0ln4h2tbrrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
